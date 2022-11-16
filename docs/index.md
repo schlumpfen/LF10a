@@ -1,17 +1,20 @@
-# Welcome to MkDocs
+# Lernsituationen zum Lernfeld 10a für die Fachinformatiker Anwendungsentwicklung (FIAE)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Kompetenzformulierung gemäß Rahmenlehrplan
 
-## Commands
+**Die Schülerinnen und Schüler verfügen über die Kompetenz, Benutzeroberflächen für
+softwarebasierte Arbeitsabläufe und Geschäftsprozesse zu gestalten und zu entwickeln.**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+>Die Schülerinnen und Schüler **informieren** sich über die vorhandenen betrieblichen Abläufe und Geschäftsprozesse.
+>Sie **stellen** diese modellhaft **dar** und leiten Optimierungsmöglichkeiten ab.
+>Sie **gestalten** und **entwickeln** mit agilen Methoden die Benutzeroberflächen für unterschiedliche Endgeräte und Betriebssysteme und stellen die vollständige Abbildung des Informationsflusses unter Berücksichtigung der Prozessbeschreibung sicher.
+>Die Schülerinnen und Schüler **stellen** die Funktionalität der Softwarelösung **her** und nutzen hierzu bereits vorhandene Bibliotheken und Module.
+>Sie **überprüfen** das Produkt auf Datenschutzkonformität und Benutzerfreundlichkeit.
+>Die Schülerinnen und Schüler **testen** die funktionale Richtigkeit. Sie quantifizieren die Reduktion der Prozesskosten des digitalisierten, optimierten Geschäftsprozesses und stellen diese den Entwicklungskosten gegenüber.
 
-## Project layout
+## Lernsituationen als PDF
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Die Lernsituationen werden automatisch generiert aus Markdown Dateien und können auch als **pdf** herunter geladen werden.
+
+- [LS1](LS1.md) Name der LS
+- [LS2](URL) Name der LS
